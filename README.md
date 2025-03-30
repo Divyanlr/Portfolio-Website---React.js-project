@@ -5,7 +5,6 @@ A personal portfolio website built with React.js to showcase your skills, projec
 ---------------------
 portfolio-website/
 │── public/               # Static assets (favicon, images)
-
 │── src/
 
 │   ├── components/       # Reusable UI components (Navbar, Footer, Buttons)
