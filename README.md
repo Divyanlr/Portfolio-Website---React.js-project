@@ -5,19 +5,33 @@ A personal portfolio website built with React.js to showcase your skills, projec
 ---------------------
 portfolio-website/
 │── public/               # Static assets (favicon, images)
+
 │── src/
+
 │   ├── components/       # Reusable UI components (Navbar, Footer, Buttons)
+
 │   ├── pages/            # Page components (Home, About, Projects, Contact)
+
 │   ├── assets/           # Images, icons, and static content
+
 │   ├── context/          # Global state management (Dark Mode, Language)
+
 │   ├── hooks/            # Custom hooks (useTheme, useScroll)
+
 │   ├── services/         # API calls (if needed)
+
 │   ├── utils/            # Utility functions (scroll to top, animations)
+
 │   ├── App.js            # Main application file
+
 │   ├── index.js          # Entry point
+
 │── package.json
+
 │── README.md
+
 │── .gitignore
+
 │── .env
 
 🛠 Tech Stack
